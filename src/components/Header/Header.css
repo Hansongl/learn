@@ -1,0 +1,25 @@
+.header{
+  background: #fff;
+  height: 120px;
+}
+.header_welcom {
+float: right;
+height: 50px;
+padding: 5px;
+}
+.logout_button{
+  margin-left: 10px;
+}
+.header_msg {
+  clear: both;
+  border-top: 1px solid rgb(24, 162, 59);
+  height: 70px;
+  padding: 8px;
+  padding-top: 20px;
+}
+.breadcrumb {
+  float: left;
+}
+.header_time {
+  float: right;
+}
